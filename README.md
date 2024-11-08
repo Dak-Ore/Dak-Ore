@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [libft](https://github.com/Dak-Ore/libft)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
