@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dak - Sebastien</h1>
 <h3 align="center">A 42 Perpignan Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dak-ore&label=Profile%20views&color=0e75b6&style=flat" alt="dak-ore" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dak-ore&label=Profile%20views&color=0e75b6&style=flat" alt="dak-ore" /> </p>
 
 - 🔭 I’m currently working on [libft](https://github.com/Dak-Ore/libft)
-
-<p align="left">
-</p>
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/rsebasti?1337Badge=off&UM6P=off" alt="rsebasti's 42 stats" /></a>
 
