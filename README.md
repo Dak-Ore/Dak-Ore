@@ -15,6 +15,7 @@
   <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="18"/> Discord : .dak.
 </p>
 <p>
-  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="18"/> Mail : [rsebasti@student.42perpignan.fr](mailto:rsebasti@student.42perpignan.fr)
+  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="18"/> Mail : <a href="mailto:rsebasti@student.42perpignan.fr">rsebasti@student.42perpignan.fr</a>
+
 </p>
 
