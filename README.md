@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dak-ore&label=Profile%20views&color=0e75b6&style=flat" alt="dak-ore" /> </p>
 
-🔭 I’m currently working on <a href="https://github.com/Dak-Ore/philosophers"> philosophers</a>
+🔭 I’m currently working on <a href="https://github.com/Zak4b/cub3D"> Cub3d</a> with <a href="https://github.com/Zak4b> asene </a>
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/rsebasti?1337Badge=off&UM6P=off" alt="rsebasti's 42 stats" /></a>
 
