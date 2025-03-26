@@ -36,7 +36,7 @@
 | [ft_printf](https://github.com/Dak-Ore/ft_printf) | Custom printf function | ✅ Completed |
 | [get_next_line](https://github.com/Dak-Ore/get_next_line) | Read a file line by line | ✅ Completed |
 | Born2Beroot | Virtual machine & Linux setup | ✅ Completed |
-| [so_long](https://github.com/Dak-Ore/so_long) | 2D game using MLX | ✅ Completed |
+| [so_long](https://github.com/Dak-Ore/solong) | 2D game using MLX | ✅ Completed |
 | [pipex](https://github.com/Dak-Ore/pipex) | Process piping in Unix | ✅ Completed |
 | [push_swap](https://github.com/Dak-Ore/push_swap) | Sorting algorithm project | ✅ Completed |
 | [minishell](https://github.com/Dak-Ore/minishell) | Custom shell in C | ✅ Completed |
