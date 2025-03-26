@@ -42,7 +42,7 @@
 | [minishell](https://github.com/Dak-Ore/minishell) | Custom shell in C | ✅ Completed |
 | [Philosophers](https://github.com/Dak-Ore/philosophers) | Concurrency and threading | ✅ Completed |
 | NetPractice | Networking fundamentals | ✅ Completed |
-| [cub3d](https://github.com/Dak-Ore/cub3d) | 3D game engine (Raycasting) | ✅ Completed |
+| [cub3d](https://github.com/zak4b/cub3d) | 3D game engine (Raycasting) | ✅ Completed |
 | [webserv](https://github.com/Dak-Ore/webserv) | Web server in C++ | 🔄 In Progress |
 | [C++ (Modules 0-9)](https://github.com/Dak-Ore/cpp) | Object-oriented programming in C++ | 🔄 In Progress |
 | [Inception](https://github.com/Dak-Ore/inception) | Docker-based project | 🔄 In Progress |
