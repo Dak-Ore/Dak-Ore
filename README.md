@@ -46,6 +46,7 @@
 | [webserv](https://github.com/Dak-Ore/webserv) | Web server in C++ | ✅ Completed |
 | [C++ (Modules 0-9)](https://github.com/Dak-Ore/cpp) | Object-oriented programming in C++ | ✅ Completed |
 | [Inception](https://github.com/Dak-Ore/inception) | Docker-based project | ✅ Completed |
+| [Transcendance](https://github.com/Dak-Ore/transcendence) | Recreate pong | W.I.P. |
 
 
 
