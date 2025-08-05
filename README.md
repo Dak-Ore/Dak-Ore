@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dak - Sebastien</h1>
 <h3 align="center">A 42 Perpignan Student</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dak-ore&label=Profile%20views&color=0e75b6&style=flat" alt="dak-ore" />
-</p>
-
 ---
 
 <h2 align="center">🛠️ Languages & Tools:</h2>
