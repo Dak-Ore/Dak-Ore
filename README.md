@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dak - Sebastien</h1>
 <h3 align="center">A 42 Perpignan Student</h3>
+
 ---
 
 <h2 align="center">🛠️ Languages & Tools:</h2>
